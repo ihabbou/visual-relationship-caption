@@ -1,3 +1,8 @@
+# Personal
+.vscode
+jupyter-lab.exe - Shortcut.lnk
+*.ink
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
