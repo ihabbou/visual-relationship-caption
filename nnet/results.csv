@@ -1,3 +1,4 @@
+image_model,number_layers,train_validation,correct_prediction,total_images,pct
 inception_v3,3, t,45609,51487,88.58%
 inception_v3,3, v,4951,5700,86.86%
 inception_v3,6, t,42190,51487,81.94%
